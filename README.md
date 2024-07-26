@@ -1,5 +1,5 @@
 # Ball-Mapper
-## Analyzing Air Pollutants Using Ball Mapper Algorithm
+## Analyzing Air Pollutants Behavior Across Air Quality Monitoring Stations Using Ball Mapper Algorithm
 ### Import Lib
 `import numpy as np
 import seaborn as sns
