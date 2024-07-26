@@ -144,7 +144,7 @@ estrada_index = np.sum(np.exp(eigenvalues))`
 cardinality_of_cycle_basis = len(cycles)
 print("Cycle Basis:", cardinality_of_cycle_basis, "Estrada Index:", estrada_index)
 print()`
-## BallMapper Summary Statistics
+## BallMapper Graph Summary Statistics
 `import pandas as pd`
 
 ####  bm_graph is already created and defined
