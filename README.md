@@ -1,5 +1,5 @@
 # Ball-Mapper
-## COMBINATION OF YEARLY POLLUTANTS DATASET (PM2.5, CO, SO2, NO2, PM10 AND O3) ANALYZED USING BALL MAPPER ALGORITHM
+## Analyzing Air Pollutants Using Ball Mapper Algorithm
 ### Import Lib
 `import numpy as np
 import seaborn as sns
